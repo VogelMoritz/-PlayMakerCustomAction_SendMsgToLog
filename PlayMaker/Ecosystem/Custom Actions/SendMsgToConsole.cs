@@ -1,4 +1,4 @@
-// (c) Copyright Martin Ritter @ Büro Vogel Moritz GbR
+// (c) Copyright Martin Ritter @ BÃ¼ro Vogel Moritz GbR
 /*--- __ECO__ __PLAYMAKER__ __ACTION__ ---*/
 // Keywords: Debug
 // v1
