@@ -12,7 +12,7 @@ namespace HutongGames.PlayMaker.Actions
 	[ActionCategory(ActionCategory.Debug)]
 	[Tooltip("Sends a log message to Unity Console Log Window.")]
 
-	public class Send Messagge To Console : FsmStateAction
+	public class SendMessageToConsole : FsmStateAction
 	{
 		[Tooltip("Info, Warning, or Error.")]
 		public LogLevel logLevel;
