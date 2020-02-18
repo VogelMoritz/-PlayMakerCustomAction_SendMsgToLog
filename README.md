@@ -1,3 +1,5 @@
 # PlayMakerCustomAction
 # SendMsgToLog
-Let you send a message to Log with some format options
+
+Let you send a message to Unity-Log console.
+You can choose a color, bold and italic option.
